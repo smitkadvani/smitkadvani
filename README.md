@@ -1,5 +1,5 @@
 
-## Hi there, I am Liliya Semenenko 👋
+## Hi there, I am Smit Kadvani 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Smit_Kadvani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smit-kadvani/)](https://www.linkedin.com/in/smit-kadvani/)
 [![Gmail Badge](https://img.shields.io/badge/-smit.kadvani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smit.kadvani@gmail.com)](mailto:smit.kadvani@gmail.com) 
 
@@ -10,7 +10,7 @@
 - 💼 Currently open for a new **job opportunity**. [Email me](mailto:smit.kadvani@gmail.com) for my **resume**.
 - 🔭 I’m currently working on a [**Recipe Website**](https://github.com/LiliyaSemenenko/recipe-app-api).
 - 🌱 Learning more about Scalable System Deployment and Algorithms.
-- ♟️ Fun fact: I love swimming. Check out my [**Chess Engine**](https://github.com/LiliyaSemenenko/Chess_Engine)!
+- ♟️ Fun fact: I love swimming!
     
 🛠**Tech Stack**
 
