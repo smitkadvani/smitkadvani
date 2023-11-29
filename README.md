@@ -6,9 +6,9 @@
 <img align="right" src="https://github.com/LiliyaSemenenko/LiliyaSemenenko/blob/main/coding_girl.gif" alt="Coder GIF" width="425" height="330">
 
 
-- 👩‍💻 Backend Developer in Django.
+- 👩‍💻 Backend Developer.
 - 💼 Currently open for a new **job opportunity**. [Email me](mailto:smit.kadvani@gmail.com) for my **resume**.
-- 🔭 I’m currently working on a [**Recipe Website**](https://github.com/LiliyaSemenenko/recipe-app-api).
+- 🔭 I’m currently working on a [**OpenSouce Tools for genomics**](https://github.com/higlass/higlass-python).
 - 🌱 Learning more about Scalable System Deployment and Algorithms.
 - ♟️ Fun fact: I love swimming!
     
