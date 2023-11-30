@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Smit_Kadvani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smit-kadvani/)](https://www.linkedin.com/in/smit-kadvani/)
 [![Gmail Badge](https://img.shields.io/badge/-smit.kadvani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smit.kadvani@gmail.com)](mailto:smit.kadvani@gmail.com) 
 
-<img align="right" src="https://github.com/LiliyaSemenenko/LiliyaSemenenko/blob/main/coding_girl.gif" alt="Coder GIF" width="425" height="330">
+<img align="right" src="https://github.com/smitkadvani/smitkadvani/blob/master/computer-nerd.gif" alt="Coder GIF" width="425" height="330">
 
 
 - 👩‍💻 Backend Developer.
