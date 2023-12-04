@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github.com/smitkadvani/smitkadvani/blob/master/computer-nerd.gif" alt="Coder GIF" width="425" height="330">
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="smit-kadvani" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/smit-kadvani?trk=profile-badge">Smit Kadvani</a></div>
-              
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>              
 
 - 👩‍💻 Backend Developer.
 - 💼 Currently open for a new **job opportunity**. [Email me](mailto:smit.kadvani@gmail.com) for my **resume**.
